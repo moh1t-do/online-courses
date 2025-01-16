@@ -1,4 +1,4 @@
-# Linux command bootcamp
+# Linux Command bootcamp
 
 > Section 1: Course Walkthrough
 
